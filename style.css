@@ -1,0 +1,50 @@
+.body{
+    background-image: url(wall.jpg);
+}
+#center{
+    text-align: center;
+}
+#left{
+    text-align: center;
+}
+#door{
+    width: 25%;
+    height: 85%;
+}
+#head{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 10px;
+}
+#head2{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 23px;
+}
+#head3{
+    color: white;
+    font-size:  30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+#gameimg{
+    width: 15%;
+    height: 25%;
+    border: 5px solid;
+    border-color: black;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 8px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#gameimg:hover{
+    width: 16%;
+    height: 26%;
+    border-color: aqua;
+    padding: 7px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
